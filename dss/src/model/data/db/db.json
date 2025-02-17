@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "id": "11a6",
+      "documentId": "X89HN3O",
+      "sender": "Caitlyn",
+      "receiver": "Vander",
+      "transactionId": "XO1111",
+      "amount": "500",
+      "currency": "USD",
+      "status": "approved",
+      "date": "2022-04-11",
+      "notes": "None"
+    }
+  ]
+}
